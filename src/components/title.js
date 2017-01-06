@@ -4,6 +4,6 @@ export default class title extends Component{
     
     render(){
         
-        return(<div><h1>{this.props.title}</h1><h3>{this.props.title2}</h3></div>);
+        return(<div><h1>HEY ANKUR TITLE</h1></div>);
     }
 }
